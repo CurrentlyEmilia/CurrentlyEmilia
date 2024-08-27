@@ -1,7 +1,12 @@
-I'm a human being.
+<p align="center">
+	<img src="https://eqilia.gay/eqilia.jpeg">
+	<small>
+		yah it is from the evillious chronicles
+		cry me a river
+	</small>
+</p>
 
-I sometimes write shit.
+Haiii, I am me. Who are you?<br>
 
-You may want to check out: <br />
-    - [azelia.eu](https://github.com/TrulyEqilia/azelia.eu).<br />
-
+I work on [Petpet](https://github.com/petpet-distro), an attempt at<br>
+an operating system based on the Linux(R) kernel.
