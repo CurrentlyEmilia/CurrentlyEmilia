@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://eqilia.gay/eqilia.jpeg">
+	<img src="https://eqilia.gay/eqilia.jpeg"><br>
 	<small>
 		yah it is from the evillious chronicles
 		cry me a river
