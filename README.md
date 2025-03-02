@@ -1,12 +1,18 @@
 <p align="center">
-	<img src="https://eqilia.gay/eqilia.jpeg"><br>
-	<small>
-		yah it is from the evillious chronicles
-		cry me a river
-	</small>
+	<img src="https://eqilia.gay/assets/frieren.png"><br>
+    <span>
+        meowmeowmeowmeow
+    </span>
 </p>
 
-Haiii, I am me. Who are you?<br>
+hii, i am myself!<br>
 
-I work on [Petpet](https://github.com/petpet-distro), an attempt at<br>
-an operating system based on the Linux(R) kernel.
+i write extremely subpar code<br>
+and i usually use copyleft licenses<br>
+not like anyone wants to steal my code<br><br>
+
+[my website (extremely bad)](https://eqilia.gay)<br><br>
+
+[Echoir (gh)](https://github.com/Echoir-OSS) (im a backend dev there)<br>
+[Echoir](https://echoir.fr)
+
